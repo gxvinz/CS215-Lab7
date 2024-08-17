@@ -1,0 +1,5 @@
+14.99 24 Hat
+29.99 31 Shirt
+17.99 12 Shorts
+5.50 18 Socks
+-1 -1 endofdata
